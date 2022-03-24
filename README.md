@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Arijit and I am currently finishing my Master degree in Cyber Security and Advanced Networking!  
 
-<img align="right" alt="img" src="me.png" width="30%" height="400px" />
+<img align="right" alt="img" src="me.png" width="40%" height="600px" />
 
 
 #### 🌱 Things I am currently working on: 
