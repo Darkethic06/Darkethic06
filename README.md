@@ -11,7 +11,7 @@ Welcome to my Github page! I am Arijit and I am currently finishing my Master de
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Master Degree  
+- Finishing my Master Degree  
 - Working with Truepid Technologies,Kolkata.
 - Currently learning Miscroservice, Architecture.
 - Working on Some personal Projects 🚀 *coming soon*
