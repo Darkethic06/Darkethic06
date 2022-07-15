@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-paul-20b578181/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arijitpaul062@gmail.com)
 
-Welcome to my Github page! I am Arijit and I am currently finishing my Master degree in Cyber Security and Advanced Networking! My Protfolio : https://darkethic06.github.io/arijit-porfolio/
+Welcome to my Github page! I am Arijit and I am currently finishing my Master degree in Cyber Security and Advanced Networking! My Protfolio : https://arijitpaul.netlify.app/
 
 <img align="right" alt="img" src="me.png" width="48%" height="550px" />
 
