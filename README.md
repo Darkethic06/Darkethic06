@@ -14,7 +14,8 @@ Welcome to my Github page! I am Arijit and I am currently finishing my Master de
 - Finishing my Master Degree  
 - Working with Truepid Technologies,Kolkata.
 - Currently learning Miscroservice, Architecture.
-- Working on Some personal Projects 🚀 *coming soon*
+- Developed a JavaScript Package For Scroll Animation. 
+- More Projects 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day, and Working out at least 2 Hours a day
