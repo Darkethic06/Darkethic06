@@ -11,17 +11,20 @@ Welcome to my Github page! I am Arijit and I am currently finishing my Master de
 
 
 #### 🌱 Things I am currently working on: 
-- Finishing my Master Degree  
+- Finishing my Master Degree, Advance Netoworking and Cyber Security   
 - Working with Truepid Technologies,Kolkata.
-- Currently learning Miscroservice, Architecture.
+- Currently learning DevOps.
 - Developed a JavaScript Package For Scroll Animation. 
-- More Projects 🚀 *coming soon*
+
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day, and Working out at least 2 Hours a day
 - Coding at least 4 hours a day
 - Achiving small goals set by me
 - Improving my CV with some education apart from university
+- 100 JavaScript Projets
+- Top 1% Rank in TryHackMe(Currently at 2%)
+
 
 #### :computer: Programming languages and tools: 
 <p>
