@@ -29,7 +29,6 @@ Welcome to my Github page! I am Arijit and I am currently finishing my Master de
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Darkethic06&show_icons=true&hide_border=true" />
-![](https://raw.githubusercontent.com/Darkethic06/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
