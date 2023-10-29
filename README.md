@@ -5,25 +5,24 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-paul-20b578181/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arijitpaul062@gmail.com)
 
-Welcome to my Github page! I am Arijit and I am currently finishing my Master degree in Cyber Security and Advanced Networking! My Protfolio : https://arijitpaul.netlify.app/
+ Software developer and cybersecurity enthusiast passionate about creating secure and innovative solutions. My Portfolio: https://arijitpaul.netlify.app/
 
 <img align="right" alt="img" src="me.png" width="48%" height="550px" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finishing my Master Degree, Advance Netoworking and Cyber Security   
-- Working with Truepid Technologies,Kolkata.
-- Currently learning DevOps.
+- Working with Webskitters Technologies,Kolkata.
+- Currently learning Kubernetes, Solving Problems in Leetcode.
 - Developed a JavaScript Package For Scroll Animation. 
 
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day, and Working out at least 2 Hours a day
 - Coding at least 4 hours a day
-- Achiving small goals set by me
+- Achieving small goals set by me
 - Improving my CV with some education apart from university
 - 100 JavaScript Projets
-- Top 1% Rank in TryHackMe(Currently at 2%)
+- Top 1% Rank in TryHackMe(Currently at 1%)
 
 
 #### :computer: Programming languages and tools: 
