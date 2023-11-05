@@ -12,10 +12,15 @@
 
 
 
+
+
 #### 🌱 Things I am currently working on: 
 - Working with Webskitters Technologies,Kolkata.
 - Currently learning Kubernetes, Solving Problems in Leetcode.
 - Developed a JavaScript Package For Scroll Animation. 
+
+
+
 
 
 #### :muscle: Things I am challenging myself with:
