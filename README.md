@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkethic06" alt="ankanmitra2002" /></a> </p>
  Software developer and cybersecurity enthusiast passionate about creating secure and innovative solutions. My Portfolio: https://arijitpaul.netlify.app/
 
-<img align="right" alt="img" src="me.png" width="48%" height="550px" />
+<img align="right" alt="img" src="me.png" width="48%" height="600px" />
 
 
 
