@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Darkethic06)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-paul-20b578181/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arijitpaul062@gmail.com)
-<p align="left"> <a href="https://github.com/darkethic06/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=darkethic06](https://github-profile-trophy.vercel.app/?username=darkethic06)" alt="arijitpaul" /></a> </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=darkethic06)](https://github.com/ryo-ma/github-profile-trophy) </p>
  Software developer and cybersecurity enthusiast passionate about creating secure and innovative solutions. My Portfolio: https://arijitpaul.netlify.app/
 
 <img align="right" alt="img" src="me.png" width="48%" height="600px" />
