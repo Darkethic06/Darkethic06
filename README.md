@@ -15,21 +15,19 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Working with Webskitters Technologies,Kolkata.
-- Currently learning Kubernetes, Solving Problems in Leetcode.
-- Developed a JavaScript Package For Scroll Animation. 
+- Working with CodeClouds IT Solution Pvt Ltd,Kolkata.
+- Currently learning Gen AI,LLM.
+- Working on Health & Fitness App. 
 
 
 
 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day, and Working out at least 2 Hours a day
-- Coding at least 4 hours a day
-- Achieving small goals set by me
-- Improving my CV with some education apart from university
-- 100 JavaScript Projets
-- Top 1% Rank in TryHackMe(Currently at 1%)
+- Wake up early and make better use of my day by maintaining a disciplined routine.
+- Work out for at least 2 hours every day.
+- Set small, meaningful goals and consistently achieve them.
+
 
 
 #### :computer: Programming languages and tools: 
